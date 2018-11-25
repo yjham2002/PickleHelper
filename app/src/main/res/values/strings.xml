@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">헬퍼</string>
+    <string name="ad_attribution">Ad</string>
+    <string name="review_package_name">kr.co.picklecode.helper.helper</string>
+
+    <string name="ADMOB_ID">ca-app-pub-1846833106939117~4067137440</string>
+    <string name="ADMOB_BANNER_ID">ca-app-pub-1846833106939117/2562484084</string>
+    <string name="ADMOB_REWARDED_VIDEO_ID">ca-app-pub-1846833106939117/7908511854</string>
+    <string name="ADMOB_INTERSITITIAL_AD_ID">ca-app-pub-1846833106939117/2370912396</string>
+    <string name="ADMOB_NATIVE_AD_ID">ca-app-pub-1846833106939117/4314936497</string>
+
+    <string name="intro_logo_desc">Main Logo for intro activity</string>
+    <string name="MapKey">AIzaSyB-S-TT7LoYnSA87UP27uwsLN8wtO8Tv9o</string>
+    <string name="reg_msg">아직 회원이 아니신가요?</string>
+    <string name="share_using">이 페이지를 공유</string>
+    <string name="agreement">이용약관</string>
+
+    <string name="integralText">(필수) 내용을 입력하세요.</string>
+
+    <string name="facebook_app_id">343089966273540</string>
+    <string name="fb_login_protocol_scheme">fb343089966273540</string>
+</resources>
